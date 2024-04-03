@@ -3,7 +3,7 @@ name: 3-stage-clos
 topology:
   kinds:
     srl:
-      image: srlinux:24.3.1
+      image: srlinux:latest
     linux:
       image: ghcr.io/hellt/network-multitool
   nodes:
