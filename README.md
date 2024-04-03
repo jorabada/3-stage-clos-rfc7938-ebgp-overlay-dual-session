@@ -7,3 +7,5 @@ Config highlights:
 
 Note: the ac-df capability exclude is required in the Ethernet Segments, so that the DF election works 
 (otherwise remote leaves are excluded from the candidate list since the spines are changing the next hops of the routes type 4)
+
+![](3-stage-clos.clab.drawio.png)
