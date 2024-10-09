@@ -1,4 +1,4 @@
-# 3 Stage Clos RFC7938 lab
+# 3 Stage Clos RFC7938 lab with eBGP in underlay (overlay uses different neighbor)
 This is a 3-stage Clos topology following RFC7938 bgp design for large scale DCs.
 Config highlights:
 - Underlay: dynamic unnumber ebgp peers, ipv4 family
